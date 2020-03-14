@@ -1,3 +1,9 @@
+* To compile: 
+``` 
+  gcc validator.c -lpthread -w
+```
+________________________________________
+
 * Umar Qureshi - 100591742  
 * Hamza Farhat - 100657374
 * Fadi Salback - 100649987
@@ -6,7 +12,4 @@
 
 * Github Link: https://github.com/HamzaFarhat/SudokuValidator
 
-* To compile: 
-``` 
-  gcc validator.c -lpthread -w
-```
+
