@@ -7,6 +7,6 @@
 * Github Link: https://github.com/HamzaFarhat/SudokuValidator
 
 * To compile: 
-<addr> 
+``` 
   gcc validator.c -lpthread -w
-</addr>
+```
