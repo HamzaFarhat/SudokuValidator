@@ -1,6 +1,6 @@
 * To compile: 
 ``` 
-  gcc validator.c -lpthread -w
+  gcc solution.c -lpthread -w
 ```
 ________________________________________
 
