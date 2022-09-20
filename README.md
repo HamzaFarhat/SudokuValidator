@@ -2,6 +2,10 @@
 ``` 
   gcc solution.c -lpthread -w
 ```
+``` 
+  Using threads to validate a soduko puzzle 
+```
+
 ________________________________________
 
 By:
